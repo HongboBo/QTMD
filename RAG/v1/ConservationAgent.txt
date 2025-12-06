@@ -1,0 +1,42 @@
+UK forestry must adapt to emerging challenges over the next 50 years, such as global trade-induced pests, climate change threats, and evolving societal expectations around carbon storage and biodiversity.
+
+来源: https://forestrycommission.blog.gov.uk/2024/09/27/forestry-facing-the-future-a-50-year-horizon-scan/
+主题: Forestry / Resilience Planning
+Agent: ConservationAgent
+---
+
+The Woodland Trust's 2025 report reveals worsening biodiversity declines in UK woods despite modest increases in woodland cover. It calls for more complex, managed forests to enhance ecological resilience.
+
+来源: https://www.woodlandtrust.org.uk/state-of-uk-woods-and-trees/
+主题: Woodland Health / Biodiversity
+Agent: ConservationAgent
+---
+
+Climate change is amplifying the vulnerability of native woodlands, especially ancient trees that support vital biodiversity niches.
+
+来源: https://www.woodlandtrust.org.uk/research/ancient-trees
+主题: Climate Impact on Forests
+Agent: ConservationAgent
+---
+
+Joined-up woodland corridors are needed to connect fragmented habitats and allow species migration in a warming climate.
+
+来源: https://www.woodlandtrust.org.uk/policy/corridors
+主题: Habitat Connectivity
+Agent: ConservationAgent
+---
+
+Urban trees are essential green infrastructure, providing shade, cooling, and psychological relief in increasingly built-up cities.
+
+来源: https://www.woodlandtrust.org.uk/urban-forests
+主题: Urban Ecology
+Agent: ConservationAgent
+---
+
+Pests and pathogens introduced via global trade require urgent biosecurity policy updates to safeguard UK tree species.
+
+来源: https://www.forestresearch.gov.uk/pests-pathogens
+主题: Biosecurity Threats
+Agent: ConservationAgent
+---
+

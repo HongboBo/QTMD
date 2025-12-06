@@ -1,0 +1,35 @@
+The NFU calls for urgent government support to boost food security, restore farm confidence, and support climate-friendly British food production.
+
+来源: https://www.nfuonline.com/updates-and-information/farming-for-britains-future-our-key-asks-of-government/
+主题: Agricultural Policy / Food Security
+Agent: FarmerAgent
+---
+
+British farmers are under increasing financial pressure from volatile markets and post-Brexit trade uncertainty.
+
+来源: https://www.nfuonline.com/trade-uncertainty
+主题: Farm Economics
+Agent: FarmerAgent
+---
+
+The UK should prioritise homegrown food security by investing in agricultural innovation and automation.
+
+来源: https://www.nfuonline.com/farming-tech
+主题: Food Security
+Agent: FarmerAgent
+---
+
+Landowners demand clarity and fairness in environmental land management schemes, especially for smaller farms.
+
+来源: https://www.cla.org.uk/elm-policy
+主题: Land Management Policy
+Agent: FarmerAgent
+---
+
+Livestock farming supports rural jobs and contributes to natural landscape preservation when done sustainably.
+
+来源: https://www.nfuonline.com/livestock-benefits
+主题: Rural Employment
+Agent: FarmerAgent
+---
+
